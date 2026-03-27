@@ -7,7 +7,7 @@ Java Desktop Application for managing daily expenses - Engineering Second Year P
 - Category-wise Expense Breakdown
 
 ## 📸 Screenshots
-![App Interface](./image_d98dda.png)
+![App Interface](./my_project.png)
 
 ## 🛠️ Tech Stack
 - **Language:** Java
